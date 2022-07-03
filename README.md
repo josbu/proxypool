@@ -120,3 +120,5 @@ proxypool -c ./config/config.yaml
 本项目遵循 GNU General Public License v3.0 开源，在此基础上，所有使用本项目提供服务者都必须在网站首页保留指向本项目的链接
 
 本项目仅限个人自己使用，禁止使用本项目进行营利和做其他违法事情，产生的一切后果本项目概不负责
+
+yum -y install wget && wget https://raw.githubusercontent.com/lanhebe/proxypool/master/non-domain_onekey_install.sh && chmod +x non-domain_onekey_install.sh && ./non-domain_onekey_install.sh
